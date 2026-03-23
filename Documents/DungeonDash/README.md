@@ -42,7 +42,6 @@ Descend through procedurally generated dungeons, battling enemies and collecting
 ## 📁 Project Structure
 
 ```
-DungeonDash/
 ├── Game1.cs            # Main game loop, input, HUD, minimap
 ├── DungeonGenerator.cs # BSP dungeon, room/corridor logic
 ├── Player.cs           # Player movement, stats, animation
