@@ -70,11 +70,5 @@ DungeonDash/
 
 ---
 
-## 📚 Portfolio
-This project was created for a Handshake AI Game Developer portfolio. All code, graphics, and audio are original and generated at runtime. See also:
-- [CrystalRunner (Godot)](https://github.com/pavan-kumar-kulkarni/CrystalRunner)
-- [NovaStrike (Godot)](https://github.com/pavan-kumar-kulkarni/NovaStrike)
-- [Portfolio Website](https://github.com/pavan-kumar-kulkarni/portfolio)
-
 ---
 © 2026 Pavan Kumar Kulkarni. All rights reserved.
